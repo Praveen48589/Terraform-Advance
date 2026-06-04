@@ -1,3 +1,9 @@
+# Private keys
+*.pem
+terra-key
+id_rsa
+id_ed25519
+*.key
 # Terraform files
 .terraform/
 *.tfstate
