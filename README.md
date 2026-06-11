@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Terraform AWS Infrastructure
 
 This repository contains Terraform configurations for provisioning AWS EC2 infrastructure. It includes a basic EC2 example and a separate configuration for launching EC2 instances with different operating system options.
@@ -217,3 +218,6 @@ If any sensitive files were already committed, remove them from Git history and 
 ## License
 
 Add a license file if you plan to make this repository public.
+=======
+# Terraform-Advance
+>>>>>>> 3c00e30bb64dba35d4d8a956d7fa3b8dff4e90ba
